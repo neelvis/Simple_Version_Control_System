@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Simple Version Control System/task/build/
+/Simple Version Control System/task/out/
+/Simple Version Control System/task/out/production/classes/
+/Simple Version Control System/task/out/test/classes/
+/Topics/The main() function/Change program arguments/out/
+/Topics/The main() function/Change program arguments/out/production/classes/
+/Topics/The main() function/Fix the program/out/
+/Topics/The main() function/Fix the program/out/production/classes/
+/Topics/The main() function/Printing arguments/out/
+/Topics/The main() function/Printing arguments/out/production/classes/
+/Topics/The main() function/Theory/out/
+/Topics/The main() function/Theory/out/production/classes/
